@@ -15,7 +15,7 @@ Git and Git hub is all about
 
 🤝Looking to Contribute Open Source project
 
-📫 Reach me sauradip96ghosh@gmail.com
+📫 Reach me sudipmukherjee96144@gamil.com
 
 📄 Know about my experiences Freshers
 
