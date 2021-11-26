@@ -20,9 +20,3 @@ Git and Git hub is all about
 📄 Know about my experiences Freshers
 
 ⚡ Fun Fact I love to draw and play pc Games
-```
-
-## Contributing
-Nothing
-## License
-not made yet
