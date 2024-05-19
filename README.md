@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudip Mukherjee</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://sudipmukhejee.github.io/potfolio/">Sudip Mukherjee</a></h1>
 <h3 align="center">I am a full-stack software engineer and writer. I love programming, reading, writing and speaking. As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.</h3>
 
 <h3 align="left">Connect with me:</h3>
