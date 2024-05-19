@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sudipmukhejee.github.io/potfolio/">Sudip Mukherjee</a></h1>
-<h3 align="center">I am a full-stack software engineer and writer. Full-stack developer with DevOps knowledge, working on several projects. Passionate about learning, currently focusing on AWS and backend development.</h3>
+<h3 align="center">I am a Full-stack developer with DevOps knowledge, working on several projects. Passionate about learning, currently focusing on AWS and backend development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
